@@ -3,4 +3,5 @@ public class Member{
    private String name;
    private int level;
    private int age;
+   private String address;
 }
