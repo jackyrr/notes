@@ -4,4 +4,7 @@ public class Member{
    private int level;
    private int age;
    private String address;
+
+   public Member(){
+   }
 }
